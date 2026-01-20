@@ -73,11 +73,13 @@ This structure closely resembles real-world retail sales data used in business a
 
 ### 4️⃣ Dashboard Development (Power BI)
 
-* Analyzed sales and profit by:
+* Analyzed sales by:
 
   * Region
   * Category and Sub-Category
-  * Month and seasonality
+  * Year and Month
+  * Product
+  * Segment
     
 Built an interactive dashboard including:
 
@@ -90,7 +92,7 @@ Built an interactive dashboard including:
 
 ## 📈 Key Business Insights
 
-* 📌 **Top 20% of products contribute ~60% of total sales**, validating Pareto principle
+* 📌 **Top 20% of products contribute ~80% of total sales**, validating Pareto principle
 * 📌 Certain regions consistently outperform others in revenue and profitability
 * 📌 Seasonal trends highlight peak sales periods for better demand forecasting
 

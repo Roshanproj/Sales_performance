@@ -31,7 +31,6 @@ This structure closely resembles real-world retail sales data used in business a
 
 * Data Cleaning & Transformation
 * Exploratory Data Analysis (EDA)
-* KPI Definition & Tracking
 * Pareto (80/20) Analysis
 * Trend Analysis
 
@@ -39,7 +38,7 @@ This structure closely resembles real-world retail sales data used in business a
 
 * **Python (Pandas, NumPy)** – data cleaning, feature engineering, automation
 * **Excel** – EDA, Pivot Tables, Pareto calculations, validation
-* **Power BI** – interactive dashboards, DAX measures, slicers, visual storytelling
+* **Power BI** – interactive dashboards, slicers, visual storytelling
 
 ---
 
@@ -48,6 +47,7 @@ This structure closely resembles real-world retail sales data used in business a
 ### 1️⃣ Data Cleaning & Preparation (Python)
 
 * Standardized data types for dates, numeric, and categorical columns
+* Normalized sales and profits and created two features **sales_normalized** and **profit_normalized**
 * Created derived fields such as **Year**, **Month**, and **Profit Margin**
 * Automated preprocessing to ensure repeatable analysis
 
@@ -57,7 +57,7 @@ This structure closely resembles real-world retail sales data used in business a
 
   * Region
   * Category and Sub-Category
-  * Month and seasonality
+  * Month
 * Used Pivot Tables for quick aggregation and validation
 * Conducted **Pareto Analysis** by:
 
@@ -65,13 +65,7 @@ This structure closely resembles real-world retail sales data used in business a
   * Calculating cumulative sales percentage
   * Segmenting products into **P1–P5 (20% buckets)**
 
-### 3️⃣ Automation & Validation
-
-* Converted datasets into structured Excel tables for automatic formula expansion
-* Enabled dynamic updates for cumulative calculations and charts
-* Cross-validated insights between Excel and Power BI
-
-### 4️⃣ Dashboard Development (Power BI)
+### 3️⃣ Dashboard Development (Power BI)
 
 * Analyzed sales by:
 

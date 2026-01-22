@@ -79,7 +79,7 @@ This structure closely resembles real-world retail sales data used in business a
 Built an interactive dashboard including:
 
 * **KPI Cards**: Total Sales, Total Profit, Total Quantity
-* **Bar Charts**: Sales by Region, Category,Sub-category, Year, Month, Segment and product 
+* **Bar Charts**: Sales by Region, Category,Sub-category, Year, Month and product
 * **Pie Chart**: Product contribution (P1–P5 Pareto segmentation)
 * **Slicers**: Region
 * **Map**: Map of regions of America analized

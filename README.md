@@ -94,7 +94,8 @@ Built an interactive dashboard including:
 ---
 
 ## 📊 Dashboard Preview
-<img width="1342" height="669" alt="image" src="https://github.com/user-attachments/assets/e9dac8ef-b86c-4228-adcf-4d43e95caf53" />
+<img width="1180" height="588" alt="image" src="https://github.com/user-attachments/assets/716ff518-233d-4df1-a4ec-83e826d1facb" />
+
 
 ---
 

@@ -1,7 +1,7 @@
 # Sales_performance
 This repository contains the Python script for data cleaning, the original and processed datasets, an Excel workbook used for exploratory data analysis (EDA), and a Power BI file showcasing the final dashboard.
 
-# 📊 Sales Performance Dashboard (Data Analyst Project)
+# 📊 Sales Performance Dashboard
 
 ## 📌 Project Overview
 
